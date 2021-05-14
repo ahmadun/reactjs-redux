@@ -1,0 +1,102 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "nama": "Ahmadun Annisa",
+            "alamat": "Jambi",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 2,
+            "nama": "Annisa",
+            "alamat": "Semarang",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 3,
+            "nama": "Jatno",
+            "alamat": "Pekanbaru",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 4,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 5,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 6,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 7,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 8,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 9,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 10,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 11,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 12,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 13,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          },
+          {
+            "id": 14,
+            "nama": "Parno",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "0823232323"
+          }
+    ]
+}
